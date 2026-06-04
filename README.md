@@ -64,9 +64,17 @@ The browser-based KDS platform allows users to:
 Documentation and methodological materials:
 
 https://zenodo.org/records/17486977
+
 https://zenodo.org/records/18971982
+
 https://zenodo.org/records/20119877
+
 https://zenodo.org/records/20162348
+
+Website: 
+
+https://www.kaplandiversityscore.com/
+
 
 ## Author
 
